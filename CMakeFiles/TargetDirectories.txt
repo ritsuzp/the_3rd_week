@@ -1,3 +1,0 @@
-/home/troy/the_3rd_week/CMakeFiles/edit_cache.dir
-/home/troy/the_3rd_week/CMakeFiles/rebuild_cache.dir
-/home/troy/the_3rd_week/CMakeFiles/task_trajectory_generator.dir
